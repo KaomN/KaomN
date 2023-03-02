@@ -8,9 +8,8 @@
 
 <h3 align="center"> Languages and Frameworks </h3>
 
-
+<h3 align="center"> Currently Learning </h3>
 <div align="center">
-	<h3 align="center"> Currently Learning </h3>
 	<img height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
 	<img height="25" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" title="Vue" />
 	<img height="25" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
