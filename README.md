@@ -6,11 +6,11 @@
 🔭 I’m currently focusing on full-stack web development using React, Node.js and TypeScript
 </p>
 
-## Languages and Frameworks
+### Languages and Frameworks
 
 
 
-## Currently Learning
+### Currently Learning
 
 🌱 I’m currently learning: <img height="20" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
