@@ -6,7 +6,7 @@
 	<a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of 
 	<a href="https://42.fr/en/what-is-42/42-program-explained/">42 network</a>
 </br>
-🔭 I’m currently focusing on full-stack web development using React, Node.js and TypeScript
+🔭 Currently focusing on full-stack web development using React, Node.js and TypeScript
 </p>
 
 <h3 align="center"> Languages and Frameworks </h3>
