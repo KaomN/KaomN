@@ -7,6 +7,15 @@
 </p>
 
 <h3 align="center"> Languages and Frameworks </h3>
+<div align="center">
+	<img height="25" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
+	<img height="25" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
+	<img height="25" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js" title="Express.js" />
+	
+	<img height="25" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
+	<img height="25" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express" title="Express" />
+	<img height="25" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" title="Flask" />
+</div>
 
 <h3 align="center"> Currently Learning </h3>
 <div align="center">
