@@ -5,7 +5,8 @@
 </br>
 🔭 I’m currently focusing on full-stack web development using React, Node.js and TypeScript
 </br>
-🌱 I’m currently learning: </p> Vue.js,  and Flask
+🌱 I’m currently learning:
+</p>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 <p align="center"> test </p>
