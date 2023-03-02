@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center"> Software Developer student at <a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of [42 network](https://42.fr/en/what-is-42/42-program-explained/) </p>
+<p align="center"> Software Developer student at <a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of <a href="[https://www.hive.fi/en/](https://42.fr/en/what-is-42/42-program-explained/)">42 network</a></p>
 
 
 <p align="center"> example text </p>
