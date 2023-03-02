@@ -1,7 +1,10 @@
 
 <h2 align="center"> Hi👋 </h2>
 
-<p align="center"> Software Developer student at <a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of <a href="[https://www.hive.fi/en/](https://42.fr/en/what-is-42/42-program-explained/)">42 network</a> </br> 🔭 I’m currently working on ...</p>
+<p align="center"> Software Developer student at <a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of <a href="[https://www.hive.fi/en/](https://42.fr/en/what-is-42/42-program-explained/)">42 network</a>
+</br>
+🔭 I’m currently working on ...
+</p>
 
 
 <p align="center"> test </p>
