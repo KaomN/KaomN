@@ -38,6 +38,13 @@
 	<img height="30" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" title="Flask" />
 </div>
 
+<h3 align="center"> Connect with me! </h3>
+<div align="center">
+	<a href="https://www.linkedin.com/in/cong-nguyen-6a965422a/">
+		<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+	</a>
+</div>
+
 <!--
 **KaomN/KaomN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
