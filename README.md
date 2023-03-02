@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<p style="text-align: center;">Software Developer student at [Hive Helsinki](https://www.hive.fi/en/) a member of [42 network](https://42.fr/en/what-is-42/42-program-explained/)</p>
+Software Developer student at [Hive Helsinki](https://www.hive.fi/en/) a member of [42 network](https://42.fr/en/what-is-42/42-program-explained/)
+
+<p style="text-align:center"> example text </p>
 
 <!--
 **KaomN/KaomN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
