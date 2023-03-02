@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<p align="center"> ### Hi there 👋 </p>
 
 <p align="center"> Software Developer student at <a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of <a href="[https://www.hive.fi/en/](https://42.fr/en/what-is-42/42-program-explained/)">42 network</a></p>
 
