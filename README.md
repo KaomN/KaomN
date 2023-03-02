@@ -23,6 +23,7 @@
 <p align="center"> test </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
+https://img.shields.io/badge/Aircall-00B388.svg?style=for-the-badge&logo=Aircall&logoColor=white
 <!--
 **KaomN/KaomN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
