@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Software Developer student at [Hive Helsinki](https://www.hive.fi/en/) a member of [42 network](https://42.fr/en/what-is-42/42-program-explained/)
+
+<p align="center"> Software Developer student at [Hive Helsinki](https://www.hive.fi/en/) a member of [42 network](https://42.fr/en/what-is-42/42-program-explained/) </p>
+
 
 <p align="center"> example text </p>
 
