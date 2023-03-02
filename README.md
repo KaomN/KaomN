@@ -21,6 +21,13 @@
 	<img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" />
 </div>
 
+<h3 align="center"> Databases </h3>
+<div align="center">
+	<img height="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" title="MySQL" />
+	<img height="30" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB" title="MariaDB" />
+	<img height="30" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
+</div>
+
 <h3 align="center"> Currently Learning </h3>
 <div align="center">
 	<img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
