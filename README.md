@@ -31,6 +31,7 @@
 
 <h3 align="center"> Databases </h3>
 <div align="center">
+	<img height="30" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite" />
 	<img height="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" title="MySQL" />
 	<img height="30" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB" title="MariaDB" />
 	<img height="30" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
