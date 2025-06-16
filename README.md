@@ -2,7 +2,7 @@
 <h2 align="center"> Hi👋 </h2>
 
 <p align="center">
-	Software Developer student at 
+	Alumni at 
 	<a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of 
 	<a href="https://42.fr/en/what-is-42/42-program-explained/">42 network</a>
 </br>
