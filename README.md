@@ -6,7 +6,7 @@
 	<a href="https://www.hive.fi/en/">Hive Helsinki</a> a member of 
 	<a href="https://42.fr/en/what-is-42/42-program-explained/">42 network</a>
 </br>
-🔭 Currently focusing on full-stack web development
+Software Engineer at Wolt
 </p>
 
 <h3 align="center"> Languages and Frameworks </h3>
